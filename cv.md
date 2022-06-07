@@ -1,4 +1,19 @@
 # **Anton Babko**
-## Junior Frontend Developer
+====================================
 ### Contact information:
+### Addres: Belarus, Minsk
 ### Phone: +375 (29) 126-66-56
+### E-mail: antonbobko.by@gmail.com
+### Telegram: @Ani0n1996
+====================================
+### About Myself: I set goals and achieve them. I don't drink or smoke. In my free time I go in for sports and lead an active lifestyle. I want to work and earn.
+### Skills:
+### *JavaScript
+### *HTML
+### *CSS
+### *GitHub, Git
+### *Editors: VS Code
+====================================
+### Languages:
+### *Russian - native speaker
+### *English - B2
