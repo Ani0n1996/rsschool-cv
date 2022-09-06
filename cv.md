@@ -26,3 +26,6 @@ Telegram: @Ani0n1996
 Russian - native speaker
 
 English - A2
+
+### About myself:
+I set goals and achieve them. Now I devote all my time to studying programming and the English language. I try to combine sports with learning programming and lead an active lifestyle. I want to work and earn.
