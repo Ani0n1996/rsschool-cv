@@ -1,7 +1,7 @@
 # **Anton Babko**
 Junior Frontend Developer
-### Contact information:
 
+### Contact information:
 Location: Belarus, Minsk
 Phone: +375 (29) 126-66-56
 E-mail: an.bezenson@gmail.com
