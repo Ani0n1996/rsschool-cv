@@ -3,12 +3,9 @@ Junior Frontend Developer
 ### Contact information:
 
 Location: Belarus, Minsk
-
 Phone: +375 (29) 126-66-56
-
-E-mail: antonbobko.by@gmail.com
-
-Telegram: @Ani0n1996
+E-mail: an.bezenson@gmail.com
+Telegram: @an.bezenson
 
 ### Skills:
 - HTML5, CSS3;
@@ -25,7 +22,6 @@ Telegram: @Ani0n1996
 
 ### Languages:
 Russian - native speaker
-
 English - A2
 
 ### About myself:
