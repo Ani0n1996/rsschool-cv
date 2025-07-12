@@ -1,4 +1,4 @@
-# **Anton Babko**
+# **Anton Bezenson**
 Junior Frontend Developer
 
 ### Contact information:
